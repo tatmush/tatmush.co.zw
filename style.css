@@ -18,8 +18,14 @@ ul li {
     display: inline;
 }
 
+.list {
+    display: grid;
+}
+
 .other_nav {
     float: right;
+    margin-left: 8;
+    margin-right: 8;
 }
 
 .nav_bar {
